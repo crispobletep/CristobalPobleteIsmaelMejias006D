@@ -1,0 +1,25 @@
+.fondo{
+    background-image: url(/assets/shiro.png);
+    margin-left: 10px;
+    margin-right: 10px;
+    display: block;
+
+}
+
+.h2{
+    align-items: center;
+}
+
+ion-content{
+    padding: 30px;
+    margin: 10%;
+    --background: yellow;
+}
+
+ion-toolbar{
+    --background: orange;
+}
+
+ion-button{
+    --background: orange;
+}

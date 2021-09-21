@@ -1,0 +1,30 @@
+.ajuste{
+    width: 700px;
+    height: 700px;
+}
+
+p{
+    text-align: justify;
+    padding: 0%;
+    margin: 0%;
+}
+
+ion-content{
+    --background: yellow;
+}
+
+ion-toolbar{
+    --background: yellow;
+}
+
+ion-item{
+    --background: orange;
+}
+
+ion-card{
+    --background: orange;
+}
+
+ion-card-subtitle{
+    color: black;    
+}
